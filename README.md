@@ -3,7 +3,7 @@
 
 ##  https://9elmaz9.github.io/Netflix_Mobile_Navigation/
 
-![Screenshot](link-to-your-screenshot-image)
+![Screenshot](https://www.jechange.fr/sites/jechange.fr/files/images/telecom/netflix-logo.png)
 This project demonstrates a mobile navigation menu inspired by Netflix's design. It includes an animated side menu that opens and closes with button clicks. The project is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
